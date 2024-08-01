@@ -12,8 +12,8 @@ import (
 	"net"
 	"sync"
 
-	quic "github.com/quic-go/quic-go"
-	cli "github.com/urfave/cli/v2"
+	"github.com/quic-go/quic-go"
+	"github.com/urfave/cli/v2"
 	"golang.org/x/net/context"
 )
 
